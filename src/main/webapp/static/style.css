@@ -1,0 +1,14 @@
+#id {
+    float: left;
+    width: 20px;
+}
+#title {
+    float: right;
+    width: 350px;
+}
+#user-id {
+    margin: 0 20px;
+}
+#body {
+    clear: both;
+}
